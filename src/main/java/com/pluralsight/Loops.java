@@ -35,7 +35,7 @@ public class Loops {
     }
 
     public static void forLoop() throws InterruptedException {
-        System.out.println("Intitiating 'for' Loop");
+        System.out.println("Starting up the 'for' Loop");
         System.out.println("Starting Countdown...");
         int i = 0;
 
